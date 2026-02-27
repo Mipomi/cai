@@ -1,7 +1,7 @@
 # 🤖 Kuen Todi AI - Sahabat Chat Santai
 
 Kuen Todi adalah sahabat AI yang nggak kaku dan secepat kilat.  
-**Coba langsung di sini: [https://cati.vercel.app](https://link-web-lo.vercel.app)**
+**Coba langsung di sini: [https://cai-pearl.vercel.app/](https://cai-pearl.vercel.app/)**
 
 **Kuen Todi** ini dibangun menggunakan **Next.js 15**, **Tailwind CSS**, dan **Gemini 1.5 Flash API**. Berbeda dengan AI biasa yang kaku, Kuen Todi didesain untuk menjadi teman ngobrol yang asik.
 
