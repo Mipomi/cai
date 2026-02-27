@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cati Zeta",
+  title: "Cai",
   description: "Aplikasi AI Chat yang di bangun untuk teman curhat yang asik dikala gabut",
 };
 
